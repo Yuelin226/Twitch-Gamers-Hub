@@ -26,5 +26,5 @@ Screenager is a personalized Twitch resources recommendation engine. Users can s
 * [Create-react-app docs](https://facebook.github.io/create-react-app/docs/getting-started)
 * [Twitch API docs](https://dev.twitch.tv/docs/api/)
 
-<br><em>Ruichen Zhang</em>
-<br><br>May 9, 2021
+<br><em>Yuelin Zou</em>
+<br><br>Dec 15, 2021
